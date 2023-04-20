@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, HTML, CSS and React, and UX tools like Figma ans Adobe XD. I am always learning new tools and Currently, I work as a consultant at Segula Technologies in Gothenburg, Sweden.
+I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, HTML, CSS and React, and UX tools like Figma ans Adobe XD. Currently, I work as a consultant at Segula Technologies in Gothenburg, Sweden.
 
 
 [Visit my portfolio](https://johannakronqvist.com/):computer: 
