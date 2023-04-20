@@ -6,7 +6,7 @@ I am Johanna, a frontend developer and UX/UI designer, my focus is to design and
 [Visit my portfolio](https://johannakronqvist.com/):computer: 
 
 🔭 I’m currently working on a internal project for my company, where we are a group of engineers building a small robot that will be able to talk to fair visitors.
-There I am learning and working with openAI API to make the robot talk and llisten. A new but exciting area for me. :smiley: 
+There I am learning and working with openAI API to make the robot talk and listen. A new but exciting area for me. :smiley: 
 
 📫 [COntact me:](https://johannakronqvist.com/contact)
 <!--
