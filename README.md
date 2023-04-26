@@ -8,7 +8,9 @@ I am Johanna, a frontend developer and UX/UI designer, my focus is to design and
 🔭 I’m currently working on a internal project for my company, where we are a group of engineers building a small robot that will be able to talk to fair visitors.
 There I am learning and working with openAI API to make the robot talk and listen. A new but exciting area for me. :smiley: 
 
-📫 [Contact me:](https://johannakronqvist.com/contact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannakronqvist&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+📫 [Contact me](https://johannakronqvist.com/contact)
 <!--
 **Johannakronqvist/johannakronqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
