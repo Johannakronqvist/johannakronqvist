@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, HTML, CSS, React and Flutter, and UX tools like Figma ans Adobe XD.
+I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, HTML, CSS, React and Flutter, and UX tools like Figma and Adobe XD.
 
 
 [Visit my portfolio](https://johannakronqvist.com/):computer: 
