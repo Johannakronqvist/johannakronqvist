@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, TypeScript, HTML, CSS and React, and UX tools like Figma ans Adobe XD.
+I am Johanna, a frontend developer and UX/UI designer, my focus is to design and develop clean, accessible, and beautiful applications. I am used to working with technologies like JavaScript, HTML, CSS, React and Flutter, and UX tools like Figma ans Adobe XD.
 
 
 [Visit my portfolio](https://johannakronqvist.com/):computer: 
 
-🔭 I’m currently working on a project for a client, building a e-commerce using the MERN stack.
+🔭 I’m currently working as an app developer and UI designer at Grepit.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannakronqvist&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
